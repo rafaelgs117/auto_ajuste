@@ -1,2 +1,2 @@
 # auto_ajuste
-Auto ajusta a tela quando utilizando o mouse diminui o tamanho da tela.
+Ajusta a pagina web dentro de uma tela quando ela e diminuida ou almentada.
